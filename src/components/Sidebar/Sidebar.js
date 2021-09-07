@@ -43,8 +43,8 @@ function Sidebar() {
       <SidebarOption Icon={NoteIcon} title="Drafts" number={54} />
       <SidebarOption Icon={ExpandMoreIcon} title="More" number={54} />
 
-      <div className="sidebe__footer">
-        <div className="sidebar__foterIcons">
+      <div className="sidebar__footer">
+        <div className="sidebar__footerIcons">
           <IconButton>
             <PersonIcon />
           </IconButton>
