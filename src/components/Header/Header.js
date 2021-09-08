@@ -17,7 +17,7 @@ function Header() {
           <MenuIcon />
         </IconButton>
         <img
-          src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Emblem.png"
+          src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-1-1.png"
           alt=""
         />
       </div>
